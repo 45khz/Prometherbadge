@@ -1,4 +1,4 @@
-# Prometherbadge
+# Promether badge
 In this repo you will find diffrent sketches that you can flash you badges with, feel free up make your own additions to it.
 
 ### What do need to get started
